@@ -25,11 +25,10 @@ window.GAME_DATA = {
       scriptFile: "scripts/uiso.txt",        // ← 대화는 이 txt 파일에서 읽어옴
       affinity: { level: 0, color: "#55c4b4", dot: false, title: "무서운 사람",
         stages: [ 
-          { from: 30, title: "괜찮은가?" },
-          { from: 50, title: "이상해" },
-          { from: 65, title: "신경쓰이게 하지마" },
+          { from: 30, title: "괜찮은 것 같기도" },
+          { from: 50, title: "친구" },
           { from: 80, title: "다 보여" },
-          { from: 100, title: "..." },
+          { from: 100, title: "귀엽네" },
         ],
       },
     },
