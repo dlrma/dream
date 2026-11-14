@@ -23,7 +23,7 @@ window.GAME_DATA = {
       id: "uiso", name: "천의소", group: "fav", status: "",
       avatar: "img/uiso.png",
       scriptFile: "scripts/uiso.txt",        // ← 대화는 이 txt 파일에서 읽어옴
-      affinity: { level: 15, color: "#55c4b4", dot: false, title: "무서운 사람",
+      affinity: { level: 0, color: "#55c4b4", dot: false, title: "무서운 사람",
         stages: [ 
           { from: 30, title: "괜찮은가?" },
           { from: 50, title: "이상해" },
