@@ -274,8 +274,8 @@ function affOf(c) {
   a.color = safeColor(a.color);
   return a;
 }
-const TOAST_AFF = "{천의소}님은 {주인공이름}님을 [{귀엽네}]라고 생각하고 있습니다.";
-const TOAST_CLEAR = "[{천의소}]의 공략이 완료 되었습니다.";
+const TOAST_AFF = "{이름}님은 {주인공이름}님을 [{호감도}]라고 생각하고 있습니다.";
+const TOAST_CLEAR = "[{이름}]의 공략이 완료 되었습니다.";
 let toastQueue = [], toastBusy = false;
 function toast(msg) {
   toastQueue.push(msg);
