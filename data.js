@@ -27,8 +27,8 @@ window.GAME_DATA = {
         stages: [ 
           { from: 30, title: "괜찮은 것 같기도" },
           { from: 50, title: "다 보이는데" },
-          { from: 80, title: "친구" },
-          { from: 100, title: "귀엽네" },
+          { from: 80, title: "귀엽네" },
+          { from: 100, title: "내 친구" },
         ],
       },
     },
