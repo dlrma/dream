@@ -58,8 +58,8 @@ window.GAME_DATA = {
 
   /* 추천 친구 탭. id는 사람을 추가할때마다 r2 r3 이런 식으로 늘려주세요*/
   recommended: [
-    { id: "r1", name: "세계", addAs: "guest", status: "여기는 상메에요~", avatar: "https://pbs.twimg.com/profile_images/2102163064825184256/itw0pz_D_400x400.jpg",
-      affinity: { dot: false, title: "여기는 호감도 설명이에요~" } },
+    { id: "r1", name: "건초", addAs: "guest", status: "상태:저능의제", avatar: "https://pbs.twimg.com/profile_images/2102163064825184256/itw0pz_D_400x400.jpg",
+      affinity: { dot: false, title: "뿡ㅋㅋ" } },
   ],
 
   /* 쪽지 탭 */
