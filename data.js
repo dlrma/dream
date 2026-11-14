@@ -12,8 +12,8 @@ window.GAME_DATA = {
 
   /* 호감도 창 기본값. 단계별 호칭은 캐릭터 affinity.stages에서 설정합니다.
      팝업 문구에는 {이름}, {주인공이름}, {호감도}를 사용할 수 있습니다. */
-  affinityDefault: { level: 100, color: "#ef9090", dot: true, title: "좋아하는 사람" },
-  affinityToast: "{이름}님은 {주인공이름}님을 [{호감도}]라고 생각하고 있습니다.",
+  affinityDefault: { level: 100, color: "#ef9090", dot: true, title: "내 친구" },
+  affinityToast: "{천의소}님은 {주인공이름}님을 [{호감도}]라고 생각하고 있습니다.",
   clearToast: "[{이름}]의 공략이 완료 되었습니다.",
 
   me: { name: "주인공", status: "♪", avatar: "img/me.png" },
@@ -42,6 +42,6 @@ window.GAME_DATA = {
 
   /* 쪽지 탭 */
   mail: [
-    { from: "세계의 한마디", text: "안녕하세요… 해당 틀을 사용하는 트친이 있다면 세계의 한마디 속 최신 화이팅!은 남겨주시길….", read: false },
+    { from: "세계의 한마디", text: "최신 화이팅!", read: false },
   ],
 };
