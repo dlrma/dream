@@ -25,9 +25,9 @@ window.GAME_DATA = {
       scriptFile: "scripts/uiso.txt",        // ← 대화는 이 txt 파일에서 읽어옴
       affinity: { level: 0, color: "#55c4b4", dot: false, title: "?",
         stages: [ 
-          { from: 1, title: "무서운 사람" },
+          { from: 1, title: "이상한 애" },
           { from: 30, title: "뭔데 자꾸 연락해" },
-          { from: 50, title: "다 보이는데" },
+          { from: 50, title: "다 보여 너" },
           { from: 80, title: "..." },
           { from: 100, title: "내 친구" },
         ],
