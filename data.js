@@ -7,7 +7,7 @@
    history : 처음부터 들어 있는 대화
    ============================================================ */
 window.GAME_DATA = {
-  version: 8,
+  version: 9,
   dividerWait: 5000,
 
   /* 호감도 창 기본값. 단계별 호칭은 캐릭터 affinity.stages에서 설정합니다.
