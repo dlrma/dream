@@ -16,6 +16,9 @@ window.GAME_DATA = {
   affinityToast: "{천의소}님은 {주인공이름}님을 [{호감도}]라고 생각하고 있습니다.",
   clearToast: "[{천의소}]의 공략이 완료 되었습니다.",
 
+  affinityDefault: { level: 1, color: "#55c4b4", dot: false, title: "이상한 애" },
+  affinityToast: "{천의소}님은 {주인공이름}님을 [{이상한 애}]라고 생각하고 있습니다.",
+
   me: { name: "주인공", status: "♪", avatar: "img/me.png" },
 
   characters: [
