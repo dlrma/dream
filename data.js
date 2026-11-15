@@ -26,9 +26,9 @@ window.GAME_DATA = {
       affinity: { level: 0, color: "#55c4b4", dot: false, title: "?",
         stages: [ 
           { from: 1, title: "무서운 사람" },
-          { from: 30, title: "괜찮은 것 같기도" },
+          { from: 30, title: "뭔데 자꾸 연락해" },
           { from: 50, title: "다 보이는데" },
-          { from: 80, title: "귀엽네" },
+          { from: 80, title: "..." },
           { from: 100, title: "내 친구" },
         ],
       },
